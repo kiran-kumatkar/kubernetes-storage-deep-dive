@@ -1,4 +1,4 @@
-# Kubernetes Storage Deep Dive — PV, PVC, StorageClass & StatefulSets
+﻿# Kubernetes Storage Deep Dive — PV, PVC, StorageClass & StatefulSets
 
 This repository is a **hands-on demonstration of Kubernetes storage internals**, built and tested on a local multi-node Kind cluster.
 
@@ -235,10 +235,7 @@ The hands-on experiments validate not just usage, but **internal decision-making
 
 All execution proofs (kubectl outputs, bindings, errors, fixes) are available in:
 
-```id="bflvmt"
-screenshots/
-```
-
+[screenshots/](./screenshots)
 ---
 
 # Author
